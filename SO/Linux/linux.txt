@@ -1,0 +1,1 @@
+Linux es una distribucion de varios sistemas operativos basados en UNIX, los mas populares que podemos encontrar son, Ubuntu, Mint, Kali, Parrot, Fedora, Debian.
